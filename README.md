@@ -17,7 +17,9 @@ All methods of this class are inspired by
  numpy (python) random module but they all take $size (shape) as last argument( except methods like shuffle).
 ## Simple-Php-Random methods
 Here are available methods in this class:
-$size is the shape of return array( default is null). Its value must be int|array of int|verdiac (e.g: $size=5 | $size=[5,2] | 5,3,4 )  
+$size is the shape of return array( default is null). Its value must be int|array of int|verdiac (e.g: 
+```$size=5 | $size=[5,2] | 5,3,4 )  ```
+ ```
  -random()
  -rand(?int|array|verdiac $size)
  -randn(?$size)
@@ -28,7 +30,7 @@ $size is the shape of return array( default is null). Its value must be int|arra
  -shuffle(array $array)
  -sample()
  -seed(int $seed)
-
+```
 Example
 Generate a random integer from 0
 to 100:
