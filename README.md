@@ -160,4 +160,6 @@ If you'd like to find a numpy alternative in php, there is a lib, numphp [numphp
 Here Is  [NumPhp with Random class](https://github.com/pmulwahali/numphp) (see 0.4.5 )
 
 ## Licence
+Jehsh Philemon 2022
 MIT 
+
